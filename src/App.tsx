@@ -48,7 +48,7 @@ const experiences: Experience[] = [
 const educations: Education[] = [
   {
     id: 1,
-    degree: "Sarjana Komputer (S.Kom) - Teknik Informatika",
+    degree: "Mahasiswa - Teknik Informatika",
     school: "Universitas Paramadina",
     year: "2025 - Sekarang",
     description: "Mahasiswa aktif semester 2 dengan IPK saat ini 3.09. Berfokus pada mata kuliah Rekayasa Perangkat Lunak, Basis Data, dan Arsitektur Sistem."
@@ -58,7 +58,7 @@ const educations: Education[] = [
     degree: "Teknik Komputer dan Jaringan",
     school: "SMK Budhi Warman 1 Jakarta",
     year: "2022 - 2025",
-    description: "Aktif dalam ekstrakurikuler klub Robotik."
+    description: "Aktif dalam ekstrakurikuler klub Robotik dan juara harapan 1 dalam Lomba Kompetensi Siswa IT Network System Administration (ITNSA) yang diselenggarakan oleh Suku Dinas Pendidikan Wilayah II Kota Administrasi Jakarta Timur."
   }
 ];
 
